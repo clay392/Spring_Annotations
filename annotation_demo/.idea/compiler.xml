@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="anno02_componentscan" />
+        <module name="anno05_import" />
+        <module name="anno03_componentscan_filter" />
+        <module name="anno01_configuration" />
+        <module name="annotation_demo" />
+        <module name="anno06_import_importselector" />
+        <module name="anno04_bean" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="anno01_configuration" target="1.5" />
+      <module name="anno02_componentscan" target="6" />
+      <module name="anno03_componentscan_filter" target="6" />
+      <module name="anno04_bean" target="1.5" />
+      <module name="anno05_import" target="1.5" />
+      <module name="anno06_import_importselector" target="8" />
+      <module name="annotation_demo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

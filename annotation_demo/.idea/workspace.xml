@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b430548d-5da4-43eb-a5cc-66ff8cfd7153" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yhQcS8eiNZ1r35tTZt1W4VE0yE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anno01_configuration" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.itheima" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringImportTest.test">
+    <configuration name="SpringBeanTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anno04_bean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.SpringBeanTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringComponentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anno02_componentscan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.SpringComponentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringComponentTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anno02_componentscan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.SpringComponentTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringFilterTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anno03_componentscan_filter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.SpringFilterTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringImportTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anno05_import" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.SpringImportTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringImportTest.test" />
+        <item itemvalue="JUnit.SpringBeanTest.test" />
+        <item itemvalue="JUnit.SpringFilterTest.test" />
+        <item itemvalue="JUnit.SpringComponentTest.test" />
+        <item itemvalue="JUnit.SpringComponentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b430548d-5da4-43eb-a5cc-66ff8cfd7153" name="Default Changelist" comment="" />
+      <created>1632701418540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632701418540</updated>
+      <workItem from="1632701421537" duration="12010000" />
+      <workItem from="1632791112826" duration="11029000" />
+      <workItem from="1632879550963" duration="8881000" />
+      <workItem from="1632965945855" duration="6217000" />
+      <workItem from="1633011235501" duration="689000" />
+      <workItem from="1633049896320" duration="37000" />
+      <workItem from="1633049945856" duration="1241000" />
+      <workItem from="1633051404857" duration="5360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="137" key="#Project_Structure" timestamp="1633054513437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="137" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1633054513437" />
+    <state x="443" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632701769969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1632701769969" />
+    <state x="1295" y="287" key="#com.intellij.ide.util.MemberChooser" timestamp="1633054242339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1295" y="287" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1633054242339" />
+    <state x="1062" y="502" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1633050677698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1062" y="502" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633050677698" />
+    <state x="1111" y="459" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1632707894696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1111" y="459" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1632707894696" />
+    <state x="1380" y="533" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1633055259445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1380" y="533" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633055259445" />
+    <state x="881" y="316" key="FileChooserDialogImpl" timestamp="1633050653191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="881" y="316" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1633050653191" />
+    <state width="1556" height="230" key="GridCell.Tab.0.bottom" timestamp="1633056914915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633056914915" />
+    <state width="1556" height="230" key="GridCell.Tab.0.center" timestamp="1633056914915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633056914915" />
+    <state width="1556" height="230" key="GridCell.Tab.0.left" timestamp="1633056914915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633056914915" />
+    <state width="1556" height="230" key="GridCell.Tab.0.right" timestamp="1633056914915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1556" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633056914915" />
+    <state width="1556" height="288" key="GridCell.Tab.1.bottom" timestamp="1632827184700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1556" height="288" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1632827184700" />
+    <state width="1556" height="288" key="GridCell.Tab.1.center" timestamp="1632827184700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1556" height="288" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1632827184700" />
+    <state width="1556" height="288" key="GridCell.Tab.1.left" timestamp="1632827184700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1556" height="288" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1632827184700" />
+    <state width="1556" height="288" key="GridCell.Tab.1.right" timestamp="1632827184700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1556" height="288" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1632827184700" />
+    <state x="633" y="253" key="Maven.ArtifactSearchDialog" timestamp="1633051800509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="253" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633051800509" />
+    <state x="779" y="189" key="SettingsEditor" timestamp="1633051578678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1633051578678" />
+    <state x="669" y="243" key="new project wizard" timestamp="1633053725102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="243" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1633053725102" />
+    <state x="1341" y="326" width="672" height="678" key="search.everywhere.popup" timestamp="1633054345582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1341" y="326" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1633054345582" />
+  </component>
+</project>
